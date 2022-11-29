@@ -7,5 +7,6 @@
 <script>
 export default {
   name: "login",
+  transitions: 'user-login'
 };
 </script>
